@@ -1,8 +1,49 @@
 ## Welcome to NFDI4Cat 👋
 
-You can use the [discussion](https://github.com/orgs/nfdi4cat/discussions) function here as a kind of help desk.
-We are happy to support you in the use of our tools and look forward to discussing other topics related to research data management in catalysis.
+**NFDI4Cat** — *Shaping the digital future of catalysis & catalysis-related sciences* 
+
+We are a German national research data initiative dedicated to building a comprehensive and 
+sustainable **Research Data Infrastructure (RDI)** for catalysis and catalysis-related sciences. 
+Our work spans the entire data value chain — *from molecule to chemical process* — and is 
+guided by the **FAIR principles** (Findable, Accessible, Interoperable, Reusable).
+
+Want to be part of it? Read on!
+
+---
+
+### What We Do
+
+NFDI4Cat brings together academia and industry to advance **Research Data Management (RDM)** 
+in catalysis-related sciences. 
+
+This GitHub organisation hosts our open-source tools, ontologies, workflows, and 
+documentation. 
+
+Explore our repositories to find:
+
+| Category | What's inside |
+|---|---|
+| 🛠 Tools & Services | ELN integrations, data converters, pipelines |
+| 📖 Ontologies | Voc4Cat and domain-specific semantic resources |
+| 📋 Templates & Guidelines | RDM plan templates, metadata standards |
+| 🔬 Use Cases & Workflows | Example data spaces and research workflows |
+
+---
+
+### 💬 Get Support & Join the Discussion
+
+We'd love to hear from you! 
+Use our 
+[**GitHub Discussions**](https://github.com/orgs/nfdi4cat/discussions) as a community helpdesk — whether you have questions about our tools, want to share 
+feedback, or would like to discuss research data management topics in catalysis.
+
+For private or direct enquiries, reach us at:
+📧 **[info@nfdi4cat.org](mailto:info@nfdi4cat.org)**
+
+---
 If you prefer a more private or direct contact, you can also reach us via the [contact form](https://nfdi4cat.org/en/contact/) of our homepage.
+
+### Additional tools and services
 
 Besides the software and datamodel repositories here, some outputs of NFDI4Cat have their main development place elsewhere:
 
