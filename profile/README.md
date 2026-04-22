@@ -41,7 +41,6 @@ For private or direct enquiries, reach us at:
 📧 **[info@nfdi4cat.org](mailto:info@nfdi4cat.org)**
 
 ---
-If you prefer a more private or direct contact, you can also reach us via the [contact form](https://nfdi4cat.org/en/contact/) of our homepage.
 
 ### Additional tools and services
 
